@@ -1,0 +1,9 @@
+cache_operation         value:DERIVE:0:U
+cache_result            value:DERIVE:0:U
+connections             value:DERIVE:0:U
+http_requests           value:DERIVE:0:U
+total_bytes             value:DERIVE:0:U
+total_operations        value:DERIVE:0:U
+total_requests          value:DERIVE:0:U
+total_sessions          value:DERIVE:0:U
+total_threads           value:DERIVE:0:U
